@@ -44,6 +44,13 @@
 | Jumper Wires | Connections |
 
 ---
+## 🗺️ Circuit Diagram
+
+![Circuit Diagram](ckt_diagram.jpg)
+
+> Full wiring reference for all sensor and LCD connections to the Arduino UNO.
+
+---
 
 ## 🔌 Circuit Connections
 
@@ -100,14 +107,6 @@ LCD GND  →  Breadboard −
 LCD SDA  →  Arduino A4
 LCD SCL  →  Arduino A5
 ```
-
----
-
-## 🗺️ Circuit Diagram
-
-![Circuit Diagram](ckt_diagram.jpg)
-
-> Full wiring reference for all sensor and LCD connections to the Arduino UNO.
 
 ---
 
